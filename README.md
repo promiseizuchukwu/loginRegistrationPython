@@ -1,2 +1,2 @@
 # loginRegistrationPython
-Login and Registration System. First  LoginRegistrations on python, advanceing i more featues for security
+Login and Registration System. First  LoginRegistrations on python, more featuers coming...
